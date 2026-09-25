@@ -1,0 +1,21 @@
+{
+  "chats": {},
+  "groups": {},
+  "settings": {},
+  "users": {
+    "109929704751162@lid": {
+      "hit": 0,
+      "limit": 100,
+      "warn": 0,
+      "registered": false,
+      "name": "Trikz Or Treat"
+    },
+    "87858102685741@lid": {
+      "hit": 0,
+      "limit": 100,
+      "warn": 0,
+      "registered": false,
+      "name": "jeth"
+    }
+  }
+}

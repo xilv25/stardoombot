@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StarDoom Crypto Exchange</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Inter', sans-serif; background: radial-gradient(circle at top right, #1a1a2e, #0B0E11, #000000); color: #EAECEF; min-height: 100vh; padding: 25px; }
+        .header { text-align: center; margin-bottom: 35px; margin-top: 10px; }
+        .header h1 { font-size: 28px; font-weight: 800; background: -webkit-linear-gradient(45deg, #FCD535, #F8A13F); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: -0.5px; }
+        .header p { color: #848E9C; font-size: 13px; margin-top: 8px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; }
+        .live-status { display: inline-block; width: 8px; height: 8px; background-color: #0ECB81; border-radius: 50%; margin-right: 5px; animation: pulse 1.5s infinite; }
+        @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(14, 203, 129, 0.7); } 70% { box-shadow: 0 0 0 6px rgba(14, 203, 129, 0); } 100% { box-shadow: 0 0 0 0 rgba(14, 203, 129, 0); } }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 16px; max-width: 480px; margin: auto; }
+        .card { background: rgba(24, 26, 32, 0.6); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border-radius: 20px; padding: 20px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); border: 1px solid rgba(255, 255, 255, 0.05); display: flex; flex-direction: column; gap: 10px; transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), border-color 0.3s; }
+        .card:active { transform: scale(0.95); border-color: #FCD535; }
+        .coin-header { display: flex; align-items: center; justify-content: space-between; }
+        .coin-name { font-size: 17px; font-weight: 800; color: #ffffff; }
+        .symbol { color: #848E9C; font-size: 11px; background: rgba(255,255,255,0.1); padding: 3px 6px; border-radius: 6px; font-weight: 600;}
+        .coin-price { font-size: 20px; font-weight: 800; color: #ffffff; margin-top: 5px; font-variant-numeric: tabular-nums; }
+        .coin-change { font-size: 13px; font-weight: 800; display: flex; align-items: center; gap: 4px; }
+        .up { color: #0ECB81; } .down { color: #F6465D; }
+        .loading { text-align: center; color: #848E9C; font-size: 14px; margin-top: 40vh; font-weight: 600; }
+        .flash { animation: flash-bg 0.5s; }
+        @keyframes flash-bg { 0% { background: rgba(252, 213, 53, 0.2); } 100% { background: rgba(24, 26, 32, 0.6); } }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>StarDoom Exchange</h1>
+        <p><span class="live-status"></span>LIVE MARKET BINANCE</p>
+    </div>
+    <div id="loader" class="loading">Satelit sedang menyinkronkan data...</div>
+    <div class="grid" id="market"></div>
+
+    <script>
+        const symbols = ['BTCUSDT', 'ETHUSDT', 'SOLUSDT', 'BNBUSDT', 'XRPUSDT', 'PEPEUSDT'];
+        const names = { BTCUSDT: 'Bitcoin', ETHUSDT: 'Ethereum', SOLUSDT: 'Solana', BNBUSDT: 'BNB', XRPUSDT: 'Ripple', PEPEUSDT: 'Pepe' };
+        
+        const market = document.getElementById('market');
+        const loader = document.getElementById('loader');
+        let previousPrices = {};
+
+        async function fetchMarketData() {
+            try {
+                const res = await fetch('https://api.binance.com/api/v3/ticker/24hr?symbols=' + JSON.stringify(symbols));
+                const data = await res.json();
+                
+                if(loader) loader.style.display = 'none';
+                data.sort((a,b) => parseFloat(b.lastPrice) - parseFloat(a.lastPrice));
+                
+                let html = '';
+                data.forEach(coin => {
+                    const currentPrice = parseFloat(coin.lastPrice);
+                    const formattedPrice = currentPrice < 1 ? currentPrice.toFixed(6) : currentPrice.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
+                    const change = parseFloat(coin.priceChangePercent);
+                    const isUp = change >= 0;
+                    const changeClass = isUp ? 'up' : 'down';
+                    const changeIcon = isUp ? '▲' : '▼';
+                    
+                    const isChanged = previousPrices[coin.symbol] && previousPrices[coin.symbol] !== currentPrice;
+                    const cardClass = isChanged ? 'card flash' : 'card';
+                    previousPrices[coin.symbol] = currentPrice;
+
+                    html += `
+                        <div class="${cardClass}">
+                            <div class="coin-header">
+                                <div class="coin-name">${names[coin.symbol]}</div>
+                                <div class="symbol">${coin.symbol.replace('USDT','')}</div>
+                            </div>
+                            <div class="coin-price">${formattedPrice}</div>
+                            <div class="coin-change ${changeClass}">${changeIcon} ${Math.abs(change).toFixed(2)}%</div>
+                        </div>
+                    `;
+                });
+                market.innerHTML = html;
+            } catch(e) { console.error(e); }
+        }
+        fetchMarketData();
+        setInterval(fetchMarketData, 3000);
+    </script>
+</body>
+</html>

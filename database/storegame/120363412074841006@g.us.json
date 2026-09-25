@@ -1,0 +1,139 @@
+{
+  "rates": {
+    "k1": 14200,
+    "k2": 12800,
+    "k3": 14000,
+    "k4": 13200,
+    "k5": 15700
+  },
+  "products": {
+    "hertopia": {
+      "category": "k1",
+      "content": "Berikut adalah list harga game Heartopia by *ESTE STORE*\n\n*HEARTOPIA PRICE LIST*\n ╰ _Price list heart diamonds heartopia_\n\n• 60 Heart Diamonds : +rate1\n• 320 Heart Diamonds : +rate5\n• 730 Heart Diamonds : +rate15\n• 1.370 Heart Diamonds : +rate20\n• 2.130 Heart Diamonds : +rate30\n• 3.550 Heart Diamonds : +rate50\n• 7.050 Heart Diamonds : +rate100\n\n\n*PACK & BUNDLE*\n ╰ _Price list special pack heartopia_\n\n• Winter Frost Season Box : +rate5\n• Supreme Festival Pack : +rate15\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "infinity nikki": {
+      "category": "k1",
+      "content": "Berikut adalah list harga game Infinity Nikki by *ESTE STORE*\n\n*INFINITY NIKKI PRICE LIST*\n ╰ _Price list stellarite infinity nikki_\n\n• 60 Stellarite : +rate1\n• 300 Stellarite : +rate5\n• 980 Stellarite : +rate15\n• 1980 Stellarite : +rate30\n• 3280 Stellarite : +rate50\n• 6480 Stellarite : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Infinity Nikki_\n\n• Monthly Gifts : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "blue archive": {
+      "category": "k1",
+      "content": "Berikut adalah list harga game Blue Archive by *ESTE STORE*\n\n*BLUE ARCHIVE PRICE LIST*\n ╰ _Price list pyroxenes blue archive_\n\n• 60 Pyroxenes : +rate1\n• 300 Pyroxenes : +rate5\n• 980 Pyroxenes : +rate15\n• 1980 Pyroxenes : +rate30\n• 3280 Pyroxenes : +rate50\n• 6480 Pyroxenes : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Blue Archive_\n\n• Monthly Pyroxene Pack : +rate8\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya_"
+    },
+    "hololive": {
+      "category": "k1",
+      "content": "Berikut adalah list harga game Hololive Dreams by *ESTE STORE*\n\n*HOLOLIVE DREAMS PRICE LIST*\n ╰ _Price list blue diamonds hololive dreams_\n\n• 80 Blue Diamonds : +rate1\n• 360 Blue Diamonds : +rate3\n• 950 Blue Diamonds : +rate7\n• 2500 Blue Diamonds : +rate20\n• 4000 Blue Diamonds : +rate30\n• 8200 Blue Diamonds : +rate60\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Hololive Dreams_\n\n• HoloPassport : +rate2\n_Pass bulanan_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "soul land awakening": {
+      "category": "k1",
+      "content": "Berikut adalah list harga game Soul Land Awakening by *ESTE STORE*\n\n*SOUL LAND AWAKENING PRICE LIST*\n ╰ _Price list trident coin soul land awakening_\n\n• 6 Trident Coin : +rate1\n• 18 Trident Coin : +rate3\n• 30 Trident Coin : +rate5\n• 45 Trident Coin : +rate7\n• 68 Trident Coin : +ate10\n• 128 Trident Coin : +rate20\n• 198 Trident Coin : +rate30\n• 328 Trident Coin : +rate50\n• 648 Trident Coin : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Soul Land Awakening_\n\n• Monthly Pass : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "star savior": {
+      "category": "k1",
+      "content": "Berikut adalah list harga game Star Savior by *ESTE STORE*\n\n*STAR SAVIOR PRICE LIST*\n ╰ _Price list crystals star savior_\n\n• 60 Crystals : +rate1\n• 300 Crystals : +rate5\n• 980 Crystals : +rate15\n• 1980 Crystals : +rate30\n• 3280 Crystals : +rate50\n• 6480 Crystals : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Star Savior_\n\n• Monthly Pass : +rate5\n_Pass bulanan 30 hari_\n\n\n*[! Catatan]:*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "girls frontline": {
+      "category": "k1",
+      "content": "Berikut adalah list harga game Girls' Frontline 2 by *ESTE STORE*\n\n*GIRLS' FRONTLINE 2 PRICE LIST*\n ╰ _Price list collapse pieces girls frontline 2_\n\n• 60 Collapse Pieces : +rate1\n• 300 Collapse Pieces : +rate5\n• 980 Collapse Pieces : +rate15\n• 1980 Collapse Pieces : +rate30\n• 3280 Collapse Pieces : +rate50\n• 6480 Collapse Pieces : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Girls' Frontline 2_\n\n• Monthly Pass : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "reverse1999": {
+      "category": "k1",
+      "content": "Berikut adalah list harga game Reverse: 1999 by *ESTE STORE*\n\n*REVERSE: 1999 PRICE LIST*\n ╰ _Price list clear drops reverse 1999_\n\n• 60 Clear Drops : +rate1\n• 300 Clear Drops : +rate5\n• 980 Clear Drops : +rate15\n• 1980 Clear Drops : +rate30\n• 3280 Clear Drops : +rate50\n• 6480 Clear Drops : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Reverse: 1999_\n\n• Roaring Month : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "afk journey": {
+      "category": "k1",
+      "content": "Berikut adalah list harga game AFK Journey by *ESTE STORE*\n\n*AFK JOURNEY PRICE LIST*\n ╰ _Price list dragon crystals afk journey_\n\n• 60 Dragon Crystals : +rate1\n• 300 Dragon Crystals : +rate5\n• 980 Dragon Crystals : +rate15\n• 1980 Dragon Crystals : +rate30\n• 3280 Dragon Crystals : +rate50\n• 6480 Dragon Crystals : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership AFK Journey_\n\n• Classic Gazette : +rate5\n_Pass bulanan 30 hari_\n• Premium Gazette : +rate15\n_Pass bulanan premium_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "umamusume": {
+      "category": "k1",
+      "content": "Berikut adalah list harga game Umamusume by *ESTE STORE*\n\n*UMAMUSUME PRICE LIST*\n ╰ _Price list jewels umamusume_\n\n• 50 Jewels : +rate1\n• 160 Jewels : +rate4\n• 500 Jewels : +rate8\n• 750 Jewels : +rate12\n• 1500 Jewels : +rate24\n• 5000 Jewels : +rate80\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Umamusume_\n\n• Daily Jewel Pack : +rate8\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "sds origin": {
+      "category": "k1",
+      "content": "Berikut adalah list harga game Seven Deadly Sins: Origin by *ESTE STORE*\n\n*SEVEN DEADLY SINS: ORIGIN PRICE LIST*\n ╰ _Price list diamonds seven deadly sins: origin_\n\n• 60 Diamonds : +rate1\n• 300 Diamonds : +rate5\n• 980 Diamonds : +rate15\n• 1980 Diamonds : +rate30\n• 3280 Diamonds : +rate50\n• 6480 Diamonds : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Seven Deadly Sins: Origin_\n\n• Monthly Pass : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "modern warship": {
+      "category": "k1",
+      "content": "Berikut adalah list harga game Modern Warships by *ESTE STORE*\n\n*MODERN WARSHIPS PRICE LIST*\n ╰ _Price list gold modern warships_\n\n• 500 Gold : +rate1\n• 2.500 Gold : +rate5\n• 7.500 Gold : +rate15\n• 15.000 Gold : +rate30\n• 25.000 Gold : +rate50\n• 50.000 Gold : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Modern Warships_\n\n• Premium Pass : +rate15\n• VIP Pass : +rate40\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "genshin": {
+      "category": "k2",
+      "content": "Berikut adalah list harga game Genshin Impact by *ESTE STORE*\n\n*GENSHIN IMPACT PRICE LIST*\n ╰ _Price list genesis crystals genshin impact_\n\n• 60 Genesis Crystals : +rate1\n• 300 Genesis Crystals : +rate5\n• 980 Genesis Crystals : +rate15\n• 1980 Genesis Crystals : +rate30\n• 3280 Genesis Crystals : +rate50\n• 6480 Genesis Crystals : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Genshin Impact_\n\n• Blessing of the Welkin Moon : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "hsr": {
+      "category": "k3",
+      "content": "Berikut adalah list harga game Honkai: Star Rail by *ESTE STORE*\n\n*HONKAI: STAR RAIL PRICE LIST*\n ╰ _Price list oneiric shards honkai: star rail_\n\n• 60 Oneiric Shards : +rate1\n• 300 Oneiric Shards : +rate5\n• 980 Oneiric Shards : +rate15\n• 1980 Oneiric Shards : +rate30\n• 3280 Oneiric Shards : +rate50\n• 6480 Oneiric Shards : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Honkai: Star Rail_\n\n• Express Supply Pass : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "zzz": {
+      "category": "k3",
+      "content": "Berikut adalah list harga game Zenless Zone Zero by *ESTE STORE*\n\n*ZENLESS ZONE ZERO PRICE LIST*\n ╰ _Price list monochromes zenless zone zero_\n\n• 60 Monochromes : +rate1\n• 300 Monochromes : +rate5\n• 980 Monochromes : +rate15\n• 1980 Monochromes : +rate30\n• 3280 Monochromes : +rate50\n• 6480 Monochromes : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Zenless Zone Zero_\n\n• Inter-Knot Membership : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "wuwa": {
+      "category": "k4",
+      "content": "Berikut adalah list harga game Wuthering Waves by *ESTE STORE*\n\n*WUTHERING WAVES PRICE LIST*\n ╰ _Price list lunites wuthering waves_\n\n• 60 Lunites : +rate1\n• 300 Lunites : +rate5\n• 980 Lunites : +rate15\n• 1980 Lunites : +rate30\n• 3280 Lunites : +rate50\n• 6480 Lunites : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Wuthering Waves_\n\n• Lunite Subscription : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "nikke": {
+      "category": "k5",
+      "content": "Berikut adalah list harga game Goddess of Victory: Nikke by *ESTE STORE*\n\n*GODDESS OF VICTORY: NIKKE PRICE LIST*\n ╰ _Price list jewels nikke_\n\n• 1500 Jewels : +rate20\n• 2300 Jewels : +rate30\n• 4000 Jewels : +rate50\n• 8000 Jewels : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Goddess of Victory: Nikke_\n\n• 30-Day Supply : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "dissidia ff": {
+      "category": "k5",
+      "content": "Berikut adalah list harga game Dissidia FF by *ESTE STORE*\n\n*DISSIDIA FF PRICE LIST*\n ╰ _Price list gems dissidia ff_\n\n• 120 Gems : +rate1\n• 600 Gems : +rate5\n• 1760 Gems : +rate15\n• 3600 Gems : +rate30\n• 6000 Gems : +rate50\n• 12000 Gems : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Dissidia FF_\n\n• Mog's Pass : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "endfield": {
+      "category": "k5",
+      "content": "Berikut adalah list harga game Arknights: Endfield by *ESTE STORE*\n\n*ARKNIGHTS: ENDFIELD PRICE LIST*\n ╰ _Price list origeometry arknights: endfield_\n\n• 12 Origeometry : +rate2\n• 21 Origeometry : +rate9\n• 34 Origeometry : +rate15\n• 57 Origeometry : +rate21\n• 92 Origeometry : +rate34\n• 194 Origeometry : +rate70\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Arknights: Endfield_\n\n• Monthly Pass : +rate5\n_Pass bulanan 30 hari_\n• Protocol Customized : +rate10\n_Pass premium / battle pass_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "mecharashi": {
+      "category": "k5",
+      "content": "Berikut adalah list harga game Mecharashi by *ESTE STORE*\n\n*MECHARASHI PRICE LIST*\n ╰ _Price list pure titanium mecharashi_\n\n• 60 Pure Titanium : +rate1\n• 300 Pure Titanium : +rate5\n• 980 Pure Titanium : +rate15\n• 1980 Pure Titanium : +rate30\n• 3280 Pure Titanium : +rate50\n• 6480 Pure Titanium : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Mecharashi_\n\n• Monthly Pass : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "gg muffin": {
+      "category": "k5",
+      "content": "Berikut adalah list harga game Go Go Muffin by *ESTE STORE*\n\n*GO GO MUFFIN PRICE LIST*\n ╰ _Price list melons go go muffin_\n\n• 60 Melons : +rate1\n• 300 Melons : +rate5\n• 980 Melons : +rate15\n• 1980 Melons : +rate30\n• 3280 Melons : +rate50\n• 6480 Melons : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Go Go Muffin_\n\n• Monthly Pass : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "plants on fire": {
+      "category": "k5",
+      "content": "Berikut adalah list harga game Plants on Fire by *ESTE STORE*\n\n*PLANTS ON FIRE PRICE LIST*\n ╰ _Price list gems plants on fire_\n\n• 60 Gems : +rate1\n• 300 Gems : +rate5\n• 980 Gems : +rate15\n• 1980 Gems : +rate30\n• 3280 Gems : +rate50\n• 6480 Gems : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Plants on Fire_\n\n• Monthly Pass : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "tibiame": {
+      "category": "k5",
+      "content": "Berikut adalah list harga game Tibiame by *ESTE STORE*\n\n*TIBIAME PRICE LIST*\n ╰ _Price list platinum tibiame_\n\n• 60 Platinum : +rate1\n• 300 Platinum : +rate5\n• 980 Platinum : +rate15\n• 1980 Platinum : +rate30\n• 3280 Platinum : +rate50\n• 6480 Platinum : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Tibiame_\n\n• Premium Time 30 Days : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "wwm": {
+      "category": "k5",
+      "content": "Berikut adalah list harga game WWM by *ESTE STORE*\n\n*WWM PRICE LIST*\n ╰ _Price list gems wwm_\n\n• 60 Gems : +rate1\n• 300 Gems : +rate5\n• 980 Gems : +rate15\n• 1980 Gems : +rate30\n• 3280 Gems : +rate50\n• 6480 Gems : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership WWM_\n\n• Monthly Pass : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "tdr": {
+      "category": "k5",
+      "content": "Berikut adalah list harga game The Division Resurgence by *ESTE STORE*\n\n*THE DIVISION RESURGENCE PRICE LIST*\n ╰ _Price list premium credits the division resurgence_\n\n• 60 Premium Credits : +rate1\n• 300 Premium Credits : +rate5\n• 980 Premium Credits : +rate15\n• 1980 Premium Credits : +rate30\n• 3280 Premium Credits : +rate50\n• 6480 Premium Credits : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership The Division Resurgence_\n\n• Monthly Pass : +rate5\n_Pass bulanan 30 hari_\n• Premium Battle Pass : +rate10\n_Pass battle pass premium_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "soc": {
+      "category": "k1",
+      "content": "Berikut adalah list harga game Sword of Convallaria by *ESTE STORE*\n\n*SWORD OF CONVALLARIA PRICE LIST*\n ╰ _Price list astral gems sword of convallaria_\n\n• 60 Astral Gems : +rate1\n• 300 Astral Gems : +rate5\n• 980 Astral Gems : +rate15\n• 1980 Astral Gems : +rate30\n• 3280 Astral Gems : +rate50\n• 6480 Astral Gems : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Sword of Convallaria_\n\n• Blessing of Hope : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "flex city": {
+      "category": "k5",
+      "content": "Berikut adalah list harga game Flex City by *ESTE STORE*\n\n*FLEX CITY PRICE LIST*\n ╰ _Price list gems flex city_\n\n• 60 Gems : +rate1\n• 300 Gems : +rate5\n• 980 Gems : +rate15\n• 1980 Gems : +rate30\n• 3280 Gems : +rate50\n• 6480 Gems : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Flex City_\n\n• Monthly Pass : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "haikyu fh": {
+      "category": "k5",
+      "content": "Berikut adalah list harga game Haikyuu Fly High by *ESTE STORE*\n\n*HAIKYUU FLY HIGH PRICE LIST*\n ╰ _Price list diamonds haikyuu fly high_\n\n• 60 Diamonds : +rate1\n• 300 Diamonds : +rate5\n• 680 Diamonds : +rate10\n• 980 Diamonds : +rate15\n• 1980 Diamonds : +rate30\n• 3280 Diamonds : +rate50\n• 6480 Diamonds : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Haikyuu Fly High_\n\n• Monthly Pass : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "night crown": {
+      "category": "k5",
+      "content": "Berikut adalah list harga game Night Crown by *ESTE STORE*\n\n*NIGHT CROWN PRICE LIST*\n ╰ _Price list diamonds night crown_\n\n• 60 Diamonds : +rate1\n• 300 Diamonds : +rate5\n• 980 Diamonds : +rate15\n• 1980 Diamonds : +rate30\n• 3280 Diamonds : +rate50\n• 6480 Diamonds : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership Night Crown_\n\n• Monthly Pass : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "czn": {
+      "category": "k3",
+      "content": "Berikut adalah list harga game CZN by *ESTE STORE*\n\n*CZN PRICE LIST*\n ╰ _Price list crystals czn_\n\n• 60 Crystals : +rate1\n• 300 Crystals : +rate5\n• 980 Crystals : +rate15\n• 1980 Crystals : +rate30\n• 3280 Crystals : +rate50\n• 6480 Crystals : +rate100\n\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership CZN_\n\n• Monthly Pass : +rate5\n_Pass bulanan 30 hari_\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "nte": {
+      "category": "k3",
+      "content": "Berikut adalah list harga game NTE by *ESTE STORE*\n\n*NTE PRICE LIST (BER-INVOICE)*\n ╰ _Rate 13.500 | $100 = 13.300_\n\n• 60 Crystals : Rp 13.500\n• 300 Crystals : Rp 67.500\n• 980 Crystals : Rp 202.500\n• 1980 Crystals : Rp 405.000\n• 3280 Crystals : Rp 675.000\n• 6480 Crystals : Rp 1.330.000\n\n*NTE PRICE LIST (NO INVOICE)*\n ╰ _Rate 12.100 | $100 = 12.000_\n\n• 60 Crystals : Rp 12.100\n• 300 Crystals : Rp 60.500\n• 980 Crystals : Rp 181.500\n• 1980 Crystals : Rp 363.000\n• 3280 Crystals : Rp 605.000\n• 6480 Crystals : Rp 1.200.000\n\n*MEMBERSHIP / PASS*\n ╰ _Price list pass & membership NTE_\n\n• Monthly Pass (Ber-Invoice) : Rp 67.500\n• Monthly Pass (No Invoice) : Rp 60.500\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    },
+    "mlplay": {
+      "category": "k6",
+      "content": "Berikut adalah list harga ML Play & MCGG by *ESTE STORE*\n\n*ML PLAY & MCGG PRICE LIST*\n ╰ _Price list diamond MLBB/MCGG_\n\n• 275 Diamonds : Rp 68.250\n• 565 Diamonds : Rp 135.450\n• 1155 Diamonds : Rp 270.900\n• 1765 Diamonds : Rp 393.750\n• 2975 Diamonds : Rp 656.250\n• 6000 Diamonds : Rp 1.291.500\n\n\n*[!] Catatan :*\n\n_Harga tidak akan selalu sama seperti harga hari ini dikarenakan rate dollar selalu naik dan turun setiap harinya._"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "120363430037125246@g.us": {
+    "welcome": {
+      "status": true,
+      "msg": "",
+      "image": ""
+    },
+    "goodbye": {
+      "status": true,
+      "msg": "",
+      "image": ""
+    },
+    "shinigami": {
+      "status": false,
+      "mode": "both"
+    },
+    "noprefix": true,
+    "offcmdgc": false
+  },
+  "120363412627003637@g.us": {
+    "shinigami": {
+      "status": true,
+      "mode": "both"
+    }
+  },
+  "120363410889313722@g.us": {
+    "shinigami": {
+      "status": false,
+      "mode": "both"
+    },
+    "dailyChar": true
+  },
+  "120363408887973084@g.us": {
+    "shinigami": {
+      "status": true,
+      "mode": "both"
+    }
+  },
+  "120363409554975318@g.us": {
+    "welcome": {
+      "status": true,
+      "msg": ""
+    },
+    "goodbye": {
+      "status": true,
+      "msg": ""
+    },
+    "shinigami": {
+      "status": true,
+      "mode": "project"
+    },
+    "noprefix": true
+  },
+  "120363428037714676@g.us": {
+    "offcmdgc": true
+  },
+  "120363410265146600@g.us": {
+    "noprefix": true,
+    "welcome": {
+      "status": true,
+      "msg": "Halo +user, Selamat datang di *+group*\n\n• Ketik `.list`\n      ╰ Untuk melihat daftar produk kami.\n\n• Ketik `.produklist`\n       ╰ Untuk melihat daftar produk yang menggunakan rate seperti top-up game dll.\n\n*[!] Catatan :*\n\n_Harap menghubungi admin jika terdapat kendala dan memastikan untuk menanyakan stok produk yang kamu pilih._\nメ ©StarDoom Universe",
+      "image": "./src/image/welcomer.mp4"
+    }
+  },
+  "120363410684303537@g.us": {
+    "offcmdgc": true,
+    "welcome": {
+      "status": true,
+      "msg": "",
+      "image": ""
+    },
+    "goodbye": {
+      "status": true,
+      "msg": "",
+      "image": ""
+    }
+  },
+  "120363430057995208@g.us": {
+    "noprefix": true,
+    "welcome": {
+      "status": true,
+      "msg": "",
+      "image": ""
+    },
+    "goodbye": {
+      "status": true,
+      "msg": "",
+      "image": ""
+    },
+    "dailyChar": true,
+    "offcmdgc": false
+  },
+  "120363412615379464@g.us": {
+    "noprefix": true
+  },
+  "131641452302360@lid": {
+    "noprefix": true
+  },
+  "120363412074841006@g.us": {
+    "noprefix": true,
+    "welcome": {
+      "status": true,
+      "msg": "Halo +user, Selamat datang di *+group*\n\n• Ketik `.list`\n      ╰ Untuk melihat daftar produk kami.\n\n• Ketik `.produklist`\n       ╰ Untuk melihat daftar produk yang menggunakan rate seperti top-up game dll.\n\n*[!] Catatan :*\n\n_Harap menghubungi admin jika terdapat kendala dan memastikan untuk menanyakan stok produk yang kamu pilih._\nメ ©StarDoom Universe",
+      "image": "./src/image/welcomer.mp4"
+    }
+  }
+}

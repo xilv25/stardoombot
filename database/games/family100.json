@@ -1,0 +1,40 @@
+{
+  "120363410265146600@g.us": {
+    "soal": "Apa yang biasanya dicari orang saat listrik padam atau mati lampu?",
+    "jawaban": [
+      "lilin",
+      "senter",
+      "korek api",
+      "ponsel",
+      "kipas"
+    ],
+    "terjawab": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "penjawab": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hints": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "salah": 1,
+    "maxSalah": 3,
+    "greeting": "Selamat malam Tuan Muda *Trikz Or Treat*,",
+    "key": {
+      "remoteJid": "120363410265146600@g.us",
+      "fromMe": true
+    }
+  }
+}
